@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/drawable/menu.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/activity_man_chao.xml" value="0.136" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/activity_thu_bai.xml" value="0.16770833333333332" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/fragment_change_pass.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/fragment_loai_sachragment.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/fragment_phieu_muon.xml" value="0.18659420289855072" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/fragment_sach.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/fragment_thanh_vien.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/fragment_top.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/header.xml" value="0.264" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/loai_sach_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/loai_sach_item.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/loai_sach_item_spiner.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/phieu_muon_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/phieu_muon_item.xml" value="0.4" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/sach_dialog.xml" value="0.4" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/sach_item.xml" value="0.4" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/sach_item_adapter.xml" value="0.12183383991894631" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/thanh_vien_dialog.xml" value="0.176" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/thanh_vien_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/thanh_vien_item_spiner.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/toolbar.xml" value="0.16530797101449277" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/layout/top_item.xml" value="0.1" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/datltph21763_MOB2041_CODE/app/src/main/res/menu/drawer_view_xml.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
